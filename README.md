@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pragati Komarla</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Flask, React**
+- 🌱 I’m currently exploring **Flask, React**
 
 - 📫 How to reach me **pragatikomarla@gmail.com**
 
